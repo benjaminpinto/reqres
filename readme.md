@@ -1,5 +1,7 @@
 # Playwright API tests
 
+![Playwright Tests](https://github.com/benjaminpinto/reqres/actions/workflows/playwright.yml/badge.svg)
+
 This is a simple project just to try out playwright's API testing methods.
 
 I'm performing tests at [`https://reqres.in/`](https://reqres.in/).
